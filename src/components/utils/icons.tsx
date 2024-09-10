@@ -1,6 +1,6 @@
 import React from 'react';
 
-export function CodeIcon(props : any) {
+export function CodeIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -21,7 +21,7 @@ export function CodeIcon(props : any) {
 }
 
 
-export function CodepenIcon(props : any) {
+export function CodepenIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -44,8 +44,7 @@ export function CodepenIcon(props : any) {
   )
 }
 
-
-export function DatabaseIcon(props : any) {
+export function DatabaseIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -67,7 +66,7 @@ export function DatabaseIcon(props : any) {
 }
 
 
-export function EclipseIcon(props : any) {
+export function EclipseIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -88,7 +87,7 @@ export function EclipseIcon(props : any) {
 }
 
 
-export function FigmaIcon(props : any) {
+export function FigmaIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -112,7 +111,7 @@ export function FigmaIcon(props : any) {
 }
 
 
-export function GitGraphIcon(props : any) {
+export function GitGraphIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -137,7 +136,7 @@ export function GitGraphIcon(props : any) {
 }
 
 
-export function GitlabIcon(props : any) {
+export function GitlabIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -157,7 +156,7 @@ export function GitlabIcon(props : any) {
 }
 
 
-export function HashIcon(props : any) {
+export function HashIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -180,7 +179,7 @@ export function HashIcon(props : any) {
 }
 
 
-export function LinkedinIcon(props : any) {
+export function LinkedinIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -202,7 +201,7 @@ export function LinkedinIcon(props : any) {
 }
 
 
-export function MailboxIcon(props : any) {
+export function MailboxIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -225,7 +224,7 @@ export function MailboxIcon(props : any) {
 }
 
 
-export function NetworkIcon(props : any) {
+export function NetworkIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -249,7 +248,7 @@ export function NetworkIcon(props : any) {
 }
 
 
-export function TypeIcon(props : any) {
+export function TypeIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -271,7 +270,7 @@ export function TypeIcon(props : any) {
 }
 
 
-export function XIcon(props : any) {
+export function XIcon(props : React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
