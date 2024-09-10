@@ -3,7 +3,6 @@ import React from 'react'
 import Link from "next/link"
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import * as Icons from "../utils/icons"
 
 export default function Projects() {
   return (

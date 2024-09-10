@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Link from "next/link"
-import * as Icons from "../utils/icons"
 
 const Hero = () => {
   return (
